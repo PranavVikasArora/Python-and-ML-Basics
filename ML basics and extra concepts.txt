@@ -1,0 +1,51 @@
+Traditional programming -
+inputs : data, program 
+output : Output value
+
+ML:
+inputs: Data, outputs
+output: Program
+
+ML focuses on the developement of computer programs that can access data and use it to learn for themselves.
+
+Installing packages : pip install package name
+
+Note on Pie chart using matplotlib :
+plt.pie[ads,labels = pielabels, colors = piecolors, explode(0,0.2,0,0,0)]
+What is explode?
+explode gives a gap between the pies in the pie chart, all categories will no have a gap(since wwe put 0) except for the one for which we put 0.2
+
+Multi-index Matrix:
+Suppose we have a data frame which looks like this :
+
+         Res 1        Res 2
+Slot1 1  some values
+      2
+      3 
+Slot2 1
+      2
+      .
+      .
+
+it is called a multi indexed matrix
+
+dataframe.loc['Slot1']
+will give
+         Res 1        Res 2
+Slot1 1  some values
+      2
+      3 
+
+To give name to an index :
+dataframe.index.names['Slot','Var']
+
+output:
+
+                Res1        Res2
+Slot  Var 
+slot1 1
+      2
+      3
+slot2 1 
+      2
+      3
