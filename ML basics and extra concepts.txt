@@ -49,3 +49,5 @@ slot1 1
 slot2 1 
       2
       3
+      
+Link to understand one hot encoder and dummy matrix : https://www.geeksforgeeks.org/ml-one-hot-encoding-of-datasets-in-python/
