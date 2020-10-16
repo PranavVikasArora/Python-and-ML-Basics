@@ -1,8 +1,8 @@
 # Python-Basics-For-ML
-Hey, Welcoem to this repository and I hope it helps u learn something or at least get a basic idea of Python and ML.
+Hey, Welcome to this repository and I hope it helps u learn the basics of ML or at least get a basic idea of the same.
 Suggested order to follow:
 1. Python_Basics
-2. Numpy_basicas
+2. Numpy_basics
 3. Pandas_Basics
 4. Matplotlib_basics
 5. Seaborn_Basics
