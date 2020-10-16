@@ -1,4 +1,3 @@
-# Python-Basics-For-ML
 Hey, Welcome to this repository and I hope it helps u learn the basics of ML or at least get a basic idea of the same.
 Suggested order to follow:
 1. Python_Basics
